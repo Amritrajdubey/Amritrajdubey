@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-### Data Scientit | Freelancer
+### Data Scientit | Freelancer  Based in India ###![two-small-indian-flags-isolated-white-background-vector-illustration-national-flag-india-pole-210070717](https://user-images.githubusercontent.com/105154672/233690613-5a2c118a-7709-4a78-b637-1802e3eae433.jpg)
 
-@python
+
+
 
 <!--
 **Amritrajdubey/Amritrajdubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
