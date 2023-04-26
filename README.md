@@ -10,6 +10,7 @@
 | Numpy | <img src="https://cdn.svgporn.com/logos/numpy.svg" width="50" height="50">
 | Seaborn | <img src="https://cdn.svgporn.com/logos/seaborn.svg" width="50" height="50">
 | TensorFlow | <img src="https://cdn.svgporn.com/logos/tensorflow.svg" width="50" height="50">
+| Keras | <img src="https://cdn.svgporn.com/logos/keras.svg" width="50" height="50">
 
 
 
@@ -18,7 +19,6 @@
 <!--
 <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="50" height="50">
 <img src="https://cdn.svgporn.com/logos/hadoop.svg" width="50" height="50">
-<img src="https://cdn.svgporn.com/logos/keras.svg" width="50" height="50">
 <img src="https://cdn.svgporn.com/logos/machine-learning.svg" width="50" height="50">
 <img src="https://cdn.svgporn.com/logos/deep-learning.svg" width="50" height="50">
 <img src="https://cdn.svgporn.com/logos/natural-language-processing.svg" width="50" height="50">
