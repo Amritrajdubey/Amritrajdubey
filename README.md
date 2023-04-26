@@ -4,7 +4,7 @@
 ### 
 
 ## Skills
-| Python | <img src="https://cdn.svgporn.com/logos/python.svg" width="50" height="50"> |
+| Python | <img src="https://cdn.svgporn.com/logos/python.svg" width="50" height="50"> | MYSQL | <img src="https://cdn.svgporn.com/logos/mysql.svg" width="50" height="50">
 
 
 
