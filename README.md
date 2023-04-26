@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Data Scientit | Freelancer  |    Based in India ![Alt Text](https://flagcdn.com/16x12/in.png "India")
-### Committed to Open Source
+### 
 
 
 
