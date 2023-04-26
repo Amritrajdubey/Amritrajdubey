@@ -6,10 +6,26 @@
 ## Skills
 | Python | <img src="https://cdn.svgporn.com/logos/python.svg" width="50" height="50"> 
 | MYSQL | <img src="https://cdn.svgporn.com/logos/mysql.svg" width="50" height="50">
+| Pandas | <img src="https://cdn.svgporn.com/logos/pandas.svg" width="50" height="50">
+| Numpy | <img src="https://cdn.svgporn.com/logos/numpy.svg" width="50" height="50">
+| TensorFlow | <img src="https://cdn.svgporn.com/logos/tensorflow.svg" width="50" height="50">
 
 
 
 <!--
+<img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="50" height="50">
+<img src="https://cdn.svgporn.com/logos/hadoop.svg" width="50" height="50">
+<img src="https://cdn.svgporn.com/logos/keras.svg" width="50" height="50">
+<img src="https://cdn.svgporn.com/logos/seaborn.svg" width="50" height="50">
+<img src="https://cdn.svgporn.com/logos/machine-learning.svg" width="50" height="50">
+<img src="https://cdn.svgporn.com/logos/deep-learning.svg" width="50" height="50">
+<img src="https://cdn.svgporn.com/logos/natural-language-processing.svg" width="50" height="50">
+<img src="https://cdn.svgporn.com/logos/apache-spark.svg" width="50" height="50">
+<img src="https://cdn.svgporn.com/logos/scikit-learn.svg" width="50" height="50">
+<img src="https://cdn.svgporn.com/logos/scipy.svg" width="50" height="50">
+<img src="https://cdn.svgporn.com/logos/autocad.svg" width="50" height="50">
+<img src="https://cdn.svgporn.com/logos/solidworks.svg" width="50" height="50">
+<img src="https://cdn.svgporn.com/logos/microsoft-excel.svg" width="50" height="50">
 **Amritrajdubey/Amritrajdubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
