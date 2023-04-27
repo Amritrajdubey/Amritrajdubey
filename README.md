@@ -12,7 +12,6 @@
 | Sk-Learn | <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="50" height="50">
 <!-- Increase space -->
 | TensorFlow | <img src="https://cdn.svgporn.com/logos/tensorflow.svg" width="50" height="50">
-
 | Keras | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="50" height="50">
 
 
