@@ -3,8 +3,7 @@
 ### Data Scientit | Freelancer  |    Based in India ![Alt Text](https://flagcdn.com/16x12/in.png "India")
 ### 
 
-## Skills :[![ML Logo]
-| ML | <img src="https://example.com/ml_logo.png" width="50" height="50">
+## Skills :
 | Python | <img src="https://cdn.svgporn.com/logos/python.svg" width="50" height="50"> 
 | MYSQL | <img src="https://cdn.svgporn.com/logos/mysql.svg" width="50" height="50">
 | Pandas |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" width="50" height="50">
@@ -16,18 +15,17 @@
 | TensorFlow | <img src="https://cdn.svgporn.com/logos/tensorflow.svg" width="50" height="50">
 | Docker | <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="50" height="50">
 | Hadoop | <img src="https://cdn.svgporn.com/logos/hadoop.svg" width="50" height="50">
+| AutoCad | <img src="https://cdn.svgporn.com/logos/autocad.svg" width="50" height="50">
 
 
 
 
 
 <!--
-
-<img src="https://cdn.svgporn.com/logos/deep-learning.svg" width="50" height="50">
 <img src="https://cdn.svgporn.com/logos/natural-language-processing.svg" width="50" height="50">
 <img src="https://cdn.svgporn.com/logos/apache-spark.svg" width="50" height="50">
 <img src="https://cdn.svgporn.com/logos/scipy.svg" width="50" height="50">
-<img src="https://cdn.svgporn.com/logos/autocad.svg" width="50" height="50">
+
 <img src="https://cdn.svgporn.com/logos/solidworks.svg" width="50" height="50">
 <img src="https://cdn.svgporn.com/logos/microsoft-excel.svg" width="50" height="50">
 **Amritrajdubey/Amritrajdubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
