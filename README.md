@@ -18,7 +18,7 @@
 | AutoCad | <img src="https://seeklogo.com/images/A/autocad-logo-0C186C6FAC-seeklogo.com.png" width="50" height="50">
 
 
-| Solidwork |<img src="https://www.solidworks.com/sites/default/files/2021-04/SolidWorks-Logo-2021_0.png" width="50" height="50">](https://example.com/solidworks_project)
+| Solidwork |<img src="https://www.solidworks.com/sites/default/files/2021-04/SolidWorks-Logo-2021_0.png" width="50" height="50">
 
 
 
