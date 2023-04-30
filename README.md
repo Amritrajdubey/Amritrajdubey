@@ -15,7 +15,9 @@
 | TensorFlow | <img src="https://cdn.svgporn.com/logos/tensorflow.svg" width="50" height="50">
 | Docker | <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="50" height="50">
 | Hadoop | <img src="https://cdn.svgporn.com/logos/hadoop.svg" width="50" height="50">
-| AutoCad | <img src="https://cdn.svgporn.com/logos/autocad.svg" width="50" height="50">
+| AutoCad | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" width="50" height="50">
+
+[<img src= width="50" height="50">](https://example.com/autocad_project)
 
 
 
