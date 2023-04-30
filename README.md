@@ -13,6 +13,7 @@
 | Keras | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="50" height="50">
 <!-- Increase space -->
 | TensorFlow | <img src="https://cdn.svgporn.com/logos/tensorflow.svg" width="50" height="50">
+| Docker | <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="50" height="50">
 
 
 
@@ -20,8 +21,6 @@
 
 <!--
 [![scikit-learn logo](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)](https://scikit-learn.org/stable/)
-
-<img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="50" height="50">
 <img src="https://cdn.svgporn.com/logos/hadoop.svg" width="50" height="50">
 <img src="https://cdn.svgporn.com/logos/machine-learning.svg" width="50" height="50">
 <img src="https://cdn.svgporn.com/logos/deep-learning.svg" width="50" height="50">
