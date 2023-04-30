@@ -16,9 +16,7 @@
 | Docker | <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="50" height="50">
 | Hadoop | <img src="https://cdn.svgporn.com/logos/hadoop.svg" width="50" height="50">
 | AutoCad | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/AutoCAD_logo.svg" width="50" height="50">
-
-[<img src="https://www.vectorlogo.zone/logos/autodesk_autocad/autodesk_autocad-icon.svg" width="50" height="50">](https://example.com/autocad_project)
-
+| Solidwork | <img src="https://cdn.svgporn.com/logos/solidworks.svg" width="50" height="50">
 
 
 
@@ -27,7 +25,7 @@
 <img src="https://cdn.svgporn.com/logos/apache-spark.svg" width="50" height="50">
 <img src="https://cdn.svgporn.com/logos/scipy.svg" width="50" height="50">
 
-<img src="https://cdn.svgporn.com/logos/solidworks.svg" width="50" height="50">
+
 <img src="https://cdn.svgporn.com/logos/microsoft-excel.svg" width="50" height="50">
 **Amritrajdubey/Amritrajdubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
