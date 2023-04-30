@@ -3,8 +3,8 @@
 ### Data Scientit | Freelancer  |    Based in India ![Alt Text](https://flagcdn.com/16x12/in.png "India")
 ### 
 
-## Skills :
-| ML | <img src="https://cdn.svgporn.com/logos/machine-learning.svg" width="50" height="50">
+## Skills :[![ML Logo]
+| ML | <img src="https://example.com/ml_logo.png" width="50" height="50">
 | Python | <img src="https://cdn.svgporn.com/logos/python.svg" width="50" height="50"> 
 | MYSQL | <img src="https://cdn.svgporn.com/logos/mysql.svg" width="50" height="50">
 | Pandas |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" width="50" height="50">
