@@ -15,9 +15,12 @@
 | TensorFlow | <img src="https://cdn.svgporn.com/logos/tensorflow.svg" width="50" height="50">
 | Docker | <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="50" height="50">
 | Hadoop | <img src="https://cdn.svgporn.com/logos/hadoop.svg" width="50" height="50">
-| Spark |<img src="https://cdn.svgporn.com/logos/apache-spark.svg" width="50" height="50">
+| PySpark |<img src="https://cdn.svgporn.com/logos/apache-spark.svg" width="50" height="50">
 | AutoCad | 
 | Solidwork |
+![PySpark Logo](https://spark.apache.org/images/spark-logo-trademark.png "PySpark")
+
+
 
 
 
