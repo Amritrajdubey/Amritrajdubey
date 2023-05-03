@@ -15,6 +15,7 @@
 | TensorFlow | <img src="https://cdn.svgporn.com/logos/tensorflow.svg" width="50" height="50">
 | Docker | <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="50" height="50">
 | Hadoop | <img src="https://cdn.svgporn.com/logos/hadoop.svg" width="50" height="50">
+| Spark |<img src="https://cdn.svgporn.com/logos/apache-spark.svg" width="50" height="50">
 | AutoCad | 
 | Solidwork |
 
@@ -22,7 +23,7 @@
 
 <!--
 <img src="https://cdn.svgporn.com/logos/natural-language-processing.svg" width="50" height="50">
-<img src="https://cdn.svgporn.com/logos/apache-spark.svg" width="50" height="50">
+
 <img src="https://cdn.svgporn.com/logos/scipy.svg" width="50" height="50">
 
 
