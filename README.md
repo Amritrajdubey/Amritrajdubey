@@ -19,6 +19,8 @@
 | AutoCad | 
 | Solidwork |
 |[PySpark Logo](https://spark.apache.org/images/spark-logo-trademark.png "PySpark")
+| PySpark | <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="50" height="50"> |
+
 
 
 
