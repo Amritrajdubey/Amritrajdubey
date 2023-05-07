@@ -28,8 +28,6 @@
 <!--
 <img src="https://cdn.svgporn.com/logos/natural-language-processing.svg" width="50" height="50">
 
-<img src="https://cdn.svgporn.com/logos/scipy.svg" width="50" height="50">
-
 
 <img src="https://cdn.svgporn.com/logos/microsoft-excel.svg" width="50" height="50">
 **Amritrajdubey/Amritrajdubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
