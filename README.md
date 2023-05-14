@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Data Scientit | Freelancer  |    Based in India ![Alt Text](https://flagcdn.com/16x12/in.png "India")
+### Data Scientist | Freelancer  |    Based in India ![Alt Text](https://flagcdn.com/16x12/in.png "India")
 ### Resume :
 https://drive.google.com/file/d/1cjZw-Mo3asty_N-WBjYD77gEZdDnG52W/view?usp=share_link
 
